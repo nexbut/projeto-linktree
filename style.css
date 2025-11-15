@@ -40,7 +40,7 @@ body * {
 
 #container {
   margin-top: -20px; /* controla o quanto sobe ou desce */
-  width: 100px;
+  width: 100%;
   max-width: 588px;
   padding: 0 24px;
 }
