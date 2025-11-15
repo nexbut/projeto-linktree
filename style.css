@@ -40,7 +40,8 @@ body * {
 
 #container {
   margin-top: -20px; /* controla o quanto sobe ou desce */
-  width: 360px;
+  width: 100px;
+  max-width: 588px;
   padding: 0 24px;
 }
 #profile {
